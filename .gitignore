@@ -1,0 +1,4 @@
+.env
+target/
+.netbeans/
+nbproject/private/
